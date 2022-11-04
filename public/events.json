@@ -1,0 +1,14 @@
+[   
+    {
+        "name": "Aula de Oftalmologia",
+        "description": "Uma aula muito legal de oftalmologia",
+        "speaker": "Carolina Martines",
+        "time": "2022-11-20 16:30"
+    },
+    {
+        "name": "Aula de Computação",
+        "description": "Uma aula de computadores legais",
+        "speaker": "Marcelo Andrade",
+        "time": "2022-11-20 14:30"
+    }
+]
